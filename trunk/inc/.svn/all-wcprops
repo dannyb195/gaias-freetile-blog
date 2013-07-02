@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 46
-/!svn/ver/734723/gaias-freetile-blog/trunk/inc
+/!svn/ver/734874/gaias-freetile-blog/trunk/inc
 END
 gaia-ftb-head.php
 K 25
@@ -13,7 +13,7 @@ output-not-random.php
 K 25
 svn:wc:ra_dav:version-url
 V 68
-/!svn/ver/734723/gaias-freetile-blog/trunk/inc/output-not-random.php
+/!svn/ver/734880/gaias-freetile-blog/trunk/inc/output-not-random.php
 END
 gaia-ftb-cpt.php
 K 25
@@ -25,7 +25,7 @@ output-not-random-default.php
 K 25
 svn:wc:ra_dav:version-url
 V 76
-/!svn/ver/734723/gaias-freetile-blog/trunk/inc/output-not-random-default.php
+/!svn/ver/734880/gaias-freetile-blog/trunk/inc/output-not-random-default.php
 END
 output-random.php
 K 25
