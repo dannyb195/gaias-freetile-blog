@@ -1,7 +1,7 @@
 === Gaia Freetile Blog ===
 Contributors: dan-gaia
 Donate link: http://gaiarendering.com/buy-me-a-beer/
-Tags: freetile.js, freetile blog, custom post type, magazine layout, filterable, filter, photowall, photo wall
+Tags: freetile.js, freetile, freetile blog, custom post type, magazine layout, filterable, filter, photowall, photo wall
 Requires at least: 3.0
 Tested up to: 3.5.1
 Stable tag: 0.1.3

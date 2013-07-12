@@ -1,7 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 46
-/!svn/ver/733701/gaias-freetile-blog/trunk/css
+/!svn/ver/735118/gaias-freetile-blog/trunk/css
+END
+admin-css.css
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/735118/gaias-freetile-blog/trunk/css/admin-css.css
 END
 gaia-ftb-css.css
 K 25

@@ -1,11 +1,17 @@
 K 25
 svn:wc:ra_dav:version-url
 V 45
-/!svn/ver/733701/gaias-freetile-blog/trunk/js
+/!svn/ver/735117/gaias-freetile-blog/trunk/js
 END
 freetile.js
 K 25
 svn:wc:ra_dav:version-url
 V 57
 /!svn/ver/733701/gaias-freetile-blog/trunk/js/freetile.js
+END
+admin-js.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/735117/gaias-freetile-blog/trunk/js/admin-js.js
 END
